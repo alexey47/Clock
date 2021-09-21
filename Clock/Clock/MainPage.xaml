@@ -9,8 +9,6 @@
         <SolidColorBrush Color="#111"/>
     </ContentPage.Background>
 
-    <!--TODO Посмотреть шрифты-->
-
     <Grid>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
             <Label x:Name="HoursLabel"
